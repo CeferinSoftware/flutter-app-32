@@ -1,5 +1,5 @@
-name: youtube
-description: Flutter app for youtube
+name: poke
+description: Flutter app for poke
 version: 1.0.0+1
 
 environment:
