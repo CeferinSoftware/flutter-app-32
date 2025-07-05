@@ -1,11 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kannasol.kannasolyouj">
+    package="com.whitehat.pokee">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
-        android:label="youtube"
+        android:label="poke"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         
